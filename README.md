@@ -6,7 +6,7 @@ A dynamic Data Enthusiast and Product Management enthusiast with a knack for pro
 - 🌱 I thrive on continuous learning, whether it's diving deep into database design or exploring the latest tools and ideas in the product management field.
 - 💬 Ask me about intresting data analytics projects I've worked upon, leading project management initiatives, or my experience founding and managing tech startups.
 - 📫 You can reach out to me at mahima16rao@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/mahimarao) to learn more about my journey and projects.
-- 😄 Fun fact: When I'm not immersed in data or coding, you'll find me working for my community of 28k members at [Datacode](www.datacode.in)
+- 😄 Fun fact: When I'm not immersed in data or coding, you'll find me co-leading communities like [Boston Innovation Group](https://meetu.ps/c/2rV4Y/13Pcs0/a) and [Datacode](www.datacode.in)
 
 <!--
 **raomah/raomah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
